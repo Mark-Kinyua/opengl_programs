@@ -1,0 +1,3 @@
+commands => g++ {*.cpp} -lGL -GLU -glut -lGLEW -o RP
+
+run => ./RP
