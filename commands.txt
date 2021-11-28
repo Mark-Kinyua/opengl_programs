@@ -1,3 +1,4 @@
-commands => g++ main.cpp -o POLYGON -lglfw3 -lGL -lm -lXrandr -lXi -lX11 -lXxf86vm -lpthread
+commands => g++ main.cpp -o HOUSE -lglfw -lGL -lm -lXrandr -lX11 -lpthread
 
-run => ./RP
+
+run => ./RP (Run the executable file)
